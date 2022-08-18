@@ -175,6 +175,36 @@ section article a{
     color: #645C55;
     padding-left: 30px;
 }
+.balcony{
+    background-image: url("../images/Balkon2.png");
+    min-height: 800px;
+    background-size: cover;
+    justify-content: flex-end;
+    display: flex;
+    align-items: center;
+}
+.balcony_facade{
+    max-width: 285px;
+    margin-right: 75px;
+}
+.title1{
+    font-family: 'Poppins' , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+.lead{
+    font-family: 'Poppins' , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #645C55;
+}
 .main_text{
     padding-top: 100px;
     padding-bottom: 100px;
@@ -273,7 +303,109 @@ section article a{
     text-align: center;
     color: #645C55;
 }
-
-
+.stairs{
+    background-image: url("../images/Stairs.png");
+    min-height: 800px;
+    background-size: cover;
+    justify-content: flex-end;
+    display: flex;
+    align-items: center;
+}
+.stairs_title{
+    max-width: 285px;
+    margin-right: 75px;
+}
+.title2{
+    font-family: 'Poppins' , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+.lead_small{
+    font-family: 'Poppins' , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #645C55;
+}
+.slogan_icon{
+    background: #403E3B;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.desc_icon{
+    max-width: 1168px;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+.mini_subtitle{
+    font-family: 'Poppins' , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #ECE7E4;
+    margin-bottom: -5px;
+}
+.mini_subtitle_double{
+    font-family: 'Poppins' , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #FFFFFF;
+    margin-bottom: 14px;
+}
+.tagline{
+    font-family: 'Poppins' , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    width: 451px;
+    color: #ECE7E4;
+}
+.logo_text{
+    display: flex;
+}
+.pic_big{
+    background-image: url("../images/Stena.png");
+    min-height: 800px;
+    background-size: cover;
+    justify-content: flex-start;
+    display: flex;
+    align-items: center;
+}
+.text_on_img{
+    max-width: 285px;
+    margin-left: 60px;
+}
+.title3{
+    font-family: 'Poppins' , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+.lead_next{
+    font-family: 'Poppins' , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #645C55;
+}
 
 
