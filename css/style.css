@@ -376,6 +376,17 @@ section article a{
 }
 .logo_text{
     display: flex;
+    flex-wrap: wrap;
+}
+.logo_text a{
+    width: 50%;
+    text-align: center;
+}
+.logo_text a:nth-child(1){
+    margin-top: 20px;
+}
+.logo_text a:nth-child(2){
+    margin-bottom: 90px;
 }
 .pic_big{
     background-image: url("../images/Stena.png");
